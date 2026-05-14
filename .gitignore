@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# VirtualBox
+*.vbox-prev
+*.vbox-tmp
+
+# Virtual machine disks
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+*.iso
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
